@@ -1,4 +1,4 @@
-# [Text Mining Project - Sentiment Analysis for movie reviews using Machine Learning Techniques](https://davidschinteie.github.io/proiecte/ProiectTextMining/)
+# [Text Mining Project - Sentiment Analysis for movie reviews using Machine Learning Techniques](https://davidschinteie.github.io/proiecte/TextMining/)
 
 ### Despre setul de date si prelucrarea acestora:
 
